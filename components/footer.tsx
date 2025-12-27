@@ -30,7 +30,7 @@ const Footer = () => {
 
                     {/* Animated Shadow/Pattern */}
                     <motion.span
-                        className="text-[58px] sm:text-[95px] md:text-[124px]  font-bold leading-none tracking-wide text-transparent uppercase"
+                        className="text-[54px] sm:text-[95px] md:text-[124px]  font-bold leading-none tracking-wide text-transparent uppercase"
                         style={{
                             backgroundImage:
                                 "linear-gradient(45deg, transparent 45%, var(--stripe-color, #a3a3a3) 45%, var(--stripe-color, #a3a3a3) 55%, transparent 0)",
